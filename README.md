@@ -1,3 +1,4 @@
+
 # UFOs- Module 12 Challenge
  
 Overview of Project:
@@ -65,9 +66,6 @@ Deliverable 2: A written report on the UFO analysis (README.md)
 Initialize your repository with a README, and write your analysis of Deliverable 1. For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
 
 Overview of Project: Explain the purpose of this analysis.
-Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
-
 Results: 
 
 Based on the required new criteria that Dana wanted to provide to the users of her webpage; we developed four new search boxes that can be used. Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.!
@@ -84,3 +82,4 @@ The image below represents the updated code for users to be able to search by ca
 
 
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+ 
