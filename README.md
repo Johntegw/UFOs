@@ -71,9 +71,14 @@ Results:
 Based on the required new criteria that Dana wanted to provide to the users of her webpage; we developed four new search boxes that can be used.
 The image below represents the updated code for users to be able to search by category. The four categories that are represented is date, city, country, and shape. 
 
+![image](https://user-images.githubusercontent.com/119356389/226412985-5e31927d-a808-4634-b6ab-e18cb2afe547.png)
+
+
 The person can easily filter on the following fields and the table will sort accordingly. 
-A user can use any of the following; this one you can enter in just the date you are looking for: 
-[image](https://user-images.githubusercontent.com/119356389/226399076-22287f1a-aece-4c8c-b274-143376026502.png)
+
+this one you can enter in just the date you are looking for: 
+![image](https://user-images.githubusercontent.com/119356389/226413310-1f2e807b-9aaf-4e1e-839c-ba96a7d65292.png)
+
 
  The image below is a filter by city: 
 ![image](https://user-images.githubusercontent.com/119356389/226399796-74d20283-61d9-4c2e-b6ad-7441b7718613.png)
