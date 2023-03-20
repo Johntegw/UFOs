@@ -72,18 +72,24 @@ Based on the required new criteria that Dana wanted to provide to the users of h
 The image below represents the updated code for users to be able to search by category. The four categories that are represented is date, city, country, and shape. 
 
 The person can easily filter on the following fields and the table will sort accordingly. 
-The image below is a filter by city: 
+A user can use any of the following; this one you can enter in just the date you are looking for: 
 [image](https://user-images.githubusercontent.com/119356389/226399076-22287f1a-aece-4c8c-b274-143376026502.png)
 
-You can also filter by State just by entering the states abbreviations: 
+ The image below is a filter by city: 
 ![image](https://user-images.githubusercontent.com/119356389/226399796-74d20283-61d9-4c2e-b6ad-7441b7718613.png)
 
-You can filter on country: 
+You can also filter by State just by entering the states abbreviations:
 ![image](https://user-images.githubusercontent.com/119356389/226399684-68a1aaff-c51e-461d-8c0f-0b020de3fa91.png)
-![image](https://user-images.githubusercontent.com/119356389/226399913-4e116bc8-75e5-497b-aecc-2331bdb1fff8.png)
 
+ The image below is a filter by country: 
+
+![image](https://user-images.githubusercontent.com/119356389/226399913-4e116bc8-75e5-497b-aecc-2331bdb1fff8.png)
+ and or you can filter by shape:
 ![image](https://user-images.githubusercontent.com/119356389/226400092-ea83f4e5-4c65-416b-8097-42d57f3704f8.png)
 
 
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Summary:
+
+ This table is a dynamic table. It responds according to your choices entered in the filter. What I see as an issue is the ability to clear the fields when done entering in each filter. I had to zero out each section. This is one area I would change. Also I didn't see the clear function  as something that would be used when clearing the page. 
  
+ Other than the  above issue, I find that this page is very informative and intresting. 
