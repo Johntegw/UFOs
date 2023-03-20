@@ -25,7 +25,7 @@ Download the ufo_starterCode.js, rename it app.js, and place it in the js folder
 NOTE
 Before you rename the ufo_starterCode.js file, we suggest that you rename the app.js you created in this module as app_1.js or something similar to avoid using the wrong file for the Challenge.
 
-In the index.html file, remove the list (<li></li>) element that creates the button.
+In the index.html file, remove the list element that creates the button.
 
 Create four more list elements: city, state, country, and shape. These will be similar to the "Enter Date" list element. Each element should have the same "id" as the object properties in the data.js file.
 
@@ -76,7 +76,7 @@ The image below represents the updated code for users to be able to search by ca
 
 The person can easily filter on the following fields and the table will sort accordingly. 
 
-this one you can enter in just the date you are looking for: 
+this one you can enter the date you are looking for: 
 ![image](https://user-images.githubusercontent.com/119356389/226413310-1f2e807b-9aaf-4e1e-839c-ba96a7d65292.png)
 
 
