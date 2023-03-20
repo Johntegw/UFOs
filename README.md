@@ -65,10 +65,10 @@ Deploy the web app on your GitHub pages.
 Deliverable 2: A written report on the UFO analysis (README.md)
 Initialize your repository with a README, and write your analysis of Deliverable 1. For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
 
-Overview of Project: Explain the purpose of this analysis.
+
 Results: 
 
-Based on the required new criteria that Dana wanted to provide to the users of her webpage; we developed four new search boxes that can be used. Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.!
+Based on the required new criteria that Dana wanted to provide to the users of her webpage; we developed four new search boxes that can be used.
 The image below represents the updated code for users to be able to search by category. The four categories that are represented is date, city, country, and shape. 
 [image](https://user-images.githubusercontent.com/119356389/226399076-22287f1a-aece-4c8c-b274-143376026502.png)
 
